@@ -33,3 +33,5 @@ public class programa02 {
         lectura.close();
     }
 }
+
+//´probando la actualizacion al final del codigo
